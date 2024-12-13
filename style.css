@@ -244,45 +244,10 @@ footer .container {
     header nav {
         flex-direction: row;
         padding-bottom: 0;
-        padding-right: 10px;
+        padding-right: 20px;
     }
 
-    #hero h1{
-        font-size: 5em;
-    }
 
-    #somos-ing .container {
-        display: flex;
-        justify-content: space-evenly;
-    }
-
-    #somos-ing .texto {
-        width: 50%;
-        max-width: 600px;
-        text-align: initial;
-        padding-left: 30px;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-    }
-
-    #somos-ing h2 {
-        margin-top: 0px;
-    }
-
-    #somos-ing .img-container {
-        background-image: linear-gradient(
-        0deg,
-        rgba(0,0,0,0.5),
-        rgba(0,0,0,0.5)
-    ),
-    url("/assets/somos-ing.jpg"); 
-    background-size: cover;
-    background-position: center center;
-    height: 500px;
-    width: 400px;
-    }
-
-    #nuestros-cursos 
+    
 
 }
