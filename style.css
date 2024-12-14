@@ -247,6 +247,30 @@ footer .container {
         padding-right: 20px;
     }
 
+    #hero h1{
+        font-size: 5em;
+    }
+
+    #somos-ing .container {
+        display: flex;
+        justify-content: space-evenly;
+    }
+ 
+    #somos-ing .texto {
+        width: 50%;
+        text-align: initial;
+        padding: 0px 30px;
+    }
+
+    #somos-ing .img-container {
+        background-image: url("/assets/somos-ing.jpg");
+        background-size: cover;
+        background-position: center center;
+        height: 500px;
+        width: 400px;
+    }
+
+    
 
     
 
